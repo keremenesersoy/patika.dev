@@ -1,3 +1,3 @@
-# patika.dev
+# Patika.dev Projects
 
-### Patika.dev projects will be added here
+### I don't have much to write, but those who analyze the right data correctly and make inferences now and in the future will always win.
